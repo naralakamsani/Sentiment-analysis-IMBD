@@ -1,0 +1,11 @@
+--2021-07-05 16:17:20--  http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+Resolving ai.stanford.edu (ai.stanford.edu)... 171.64.68.10
+Connecting to ai.stanford.edu (ai.stanford.edu)|171.64.68.10|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84125825 (80M) [application/x-gzip]
+Saving to: ‘../data/aclImdb_v1.tar.gz’
+
+../data/aclImdb_v1.  24%[===>                ]  19.49M  8.59MB/s               ./data/aclImdb_v1.t  29%[====>               ]  23.57M  9.38MB/s               /data/aclImdb_v1.ta  34%[=====>              ]  27.87M  10.1MB/s               data/aclImdb_v1.tar  40%[=======>            ]  32.17M  10.7MB/s               ata/aclImdb_v1.tar.  45%[========>           ]  36.48M  11.2MB/s    eta 4s     ta/aclImdb_v1.tar.g  50%[=========>          ]  40.79M  11.7MB/s    eta 4s     a/aclImdb_v1.tar.gz  56%[==========>         ]  45.00M  12.2MB/s    eta 4s     /aclImdb_v1.tar.gz   59%[==========>         ]  47.35M  13.4MB/s    eta 4s     aclImdb_v1.tar.gz    62%[===========>        ]  50.28M  14.1MB/s    eta 4s     clImdb_v1.tar.gz     65%[============>       ]  52.63M  14.5MB/s    eta 2s     lImdb_v1.tar.gz      69%[============>       ]  55.83M  15.6MB/s    eta 2s     Imdb_v1.tar.gz       72%[=============>      ]  58.31M  15.8MB/s    eta 2s     mdb_v1.tar.gz        75%[==============>     ]  60.84M  15.7MB/s    eta 2s     db_v1.tar.gz         80%[===============>    ]  64.29M  15.3MB/s    eta 2s     b_v1.tar.gz          84%[===============>    ]  67.83M  14.9MB/s    eta 1s     _v1.tar.gz           89%[================>   ]  71.44M  15.0MB/s    eta 1s     v1.tar.gz            93%[=================>  ]  74.79M  15.3MB/s    eta 1s     1.tar.gz             97%[==================> ]  77.92M  15.1MB/s    eta 1s     ../data/aclImdb_v1. 100%[===================>]  80.23M  15.0MB/s    in 6.2s    
+
+2021-07-05 16:17:26 (12.9 MB/s) - ‘../data/aclImdb_v1.tar.gz’ saved [84125825/84125825]
+
