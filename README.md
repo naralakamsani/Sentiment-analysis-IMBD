@@ -13,7 +13,7 @@ In this project, I used SageMaker to construct a complete project from end to en
 
 1. Clone the repository and navigate to the downloaded folder.
 	```
-		git clone https://github.com/naralakamsani/Sentiment_analysis_IMBD.git
+		git clone https://github.com/naralakamsani/Sentiment-analysis-IMBD.git
 	```
 2. Open the `SageMaker Project.ipynb` file. Of course, you can find HTML version of the file.
 	```
