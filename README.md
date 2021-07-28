@@ -1,6 +1,6 @@
 # Sentiment Analysis IMBD
 
-[image1]: ./img/negative_review.png "Negative Review"
+[image1]: ./Image_web_app.PNG "Negative Review"
 
 ## Project Overview
 In this project, I used SageMaker to construct a complete project from end to end. The goal of this project is to have a simple web page which a user can use to enter a movie review. The web page will then send the review off to my deployed model which will predict the sentiment of the entered review.
